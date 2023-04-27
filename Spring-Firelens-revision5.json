@@ -56,7 +56,7 @@
                 "options": {
                     "Host": "54.168.26.219",
                     "Include_Tag_Key": "true",
-                    "Index": "nginx_helm",
+                    "Index": "spring_helm",
                     "Name": "es",
                     "Port": "9200",
                     "Suppress_Type_Name": "On",
